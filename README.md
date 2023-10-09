@@ -20,5 +20,5 @@ The program result appears in the console, the current progress is displayed in 
 seeing numbers from the test set and after all calculations, a percentage appears
 effectiveness for the KNN algorithm.
 
-![Algorytm KNN](https://github.com/Dryzhakova/Numbers/raw/master/Photo/Algorytm.png)
+![Algorytm KNN](https://github.com/Dryzhakova/Numbers/raw/main/Photo/Algorytm.png)
 
